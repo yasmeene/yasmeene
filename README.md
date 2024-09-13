@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yasmeen</h1>
 <h3 align="center">A first-year Computer Science student @ the University of Waterloo</h3>
 
-- 🔭 I’m currently working on **Turtle A.I. as a Co-Founder**
+- 🔭 I’m currently working at **Rhetoricon as a FullStack Developer**
 
-- 🌱 I’m currently learning **C, and C#**
+- 🌱 I’m currently learning **C++, and C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yasmeene](https://github.com/yasmeene)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **yelkheir@uwaterloo.ca**
 
-- 📄 Heres my Resume: [https://drive.google.com/file/d/1s0D1dsYpmC8Kuf8pFCpSThp1YzAkxF5E/view?usp=sharing](https://drive.google.com/file/d/1s0D1dsYpmC8Kuf8pFCpSThp1YzAkxF5E/view?usp=sharing)
+- 📄 Heres my [Resume](https://drive.google.com/file/d/1KXwlrwFY2jbpk5J2BElwr2UwN1b1j7AH/view?usp=sharing)
 
 - ⚡ Fun fact **I like to learn languages, currently I'm learning French**
 
