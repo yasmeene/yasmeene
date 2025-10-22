@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasmeen</h1>
-<h3 align="center">A first-year Computer Science student @ the University of Waterloo</h3>
-
-[comment]: <> (- 🔭 I’m currently working at **Rhetoricon as a FullStack Developer**)
+<h3 align="center"> Computer Science student @ the University of Waterloo</h3>
 
 - 🌱 I’m currently learning **C++, and C#**
 
